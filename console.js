@@ -2,3 +2,9 @@
 console.log("Hello from 456")
 console.log("Hello from 456")
 //this is the end
+
+
+function main() {
+return null;
+}
+  
